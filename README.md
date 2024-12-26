@@ -5,15 +5,17 @@ Hello, I'm Erica. Data Analyst with expertise in data analysis, reporting, and t
 
 Querying and analyzing data using SQL and Python. Performing data cleaning and visualzation using Python and R. Leveraging insights from data to support decision-making and improve processes.
 
-📚 Projects
+## 📚 Projects
 Welcome to my portfolio, where I showcase projects that demonstrate my analytical skills and passion for data-driven solutions.
 
-🛠️ Tools
+## 🛠️ Tools
 Languages: Python, SQL, R
 
 Databases: PostgreSQL
 
 Analysis Tools: Jupyter Notebooks, Excel, Google Sheets
 
-👋🏻 Connect with Me
-Linkedin
+## 👋🏻 Connect with Me
+[Linkedin](https://www.linkedin.com/in/erica-greene15/)
+
+ecgreene87@gmail.com
