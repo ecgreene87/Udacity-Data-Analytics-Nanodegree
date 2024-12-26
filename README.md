@@ -1,21 +1,69 @@
-# ericagreene87.github.io
-![My Project](https://github.com/user-attachments/assets/8b72ac0b-661e-4b64-9ef9-5bd001493258)
+# 📊 Udacity Data Analyst Nanodegree
+Focus areas:
+- Data Wrangling
+- Data Analysis using python
+- Data Analysis using PostgresSQL
+- Machine Learning
+- Data Visualization
 
-Hello, I'm Erica. Data Analyst with expertise in data analysis, reporting, and technical problem-solving.
+Period: Nov 2024 - Jan 2025 (estimated completion)
 
-Querying and analyzing data using SQL and Python. Performing data cleaning and visualzation using Python and R. Leveraging insights from data to support decision-making and improve processes.
 
-## 📚 Projects
-Welcome to my portfolio, where I showcase projects that demonstrate my analytical skills and passion for data-driven solutions.
 
-## 🛠️ Tools
-Languages: Python, SQL, R
+##📚 Projects
+Click on the project title to view my projects! 🙂
 
-Databases: PostgreSQL
+# Part 1: Data Analysis and Descriptive Statistics
+## 🎞️ [Investigate a Movie Dataset](https://github.com/ericagreene87/Udacity-Data-Analytics-Nanodegree/blob/main/investigate-movie-dataset.ipynb)
+Analyzing a TMDB Dataset with over 10,000 movies with 1D and 2D analysis
 
-Analysis Tools: Jupyter Notebooks, Excel, Google Sheets
+### 🧠 Skills/Libraries used
+- Python
+- Pandas
+- Numpy
+- Data Visualization
+- Data Wrangling
 
-## 👋🏻 Connect with Me
-[Linkedin](https://www.linkedin.com/in/erica-greene15/)
+### ❓Questions explored
+- What is the distribution of movie budgets in this dataset?
+- Which genres have the best and worst popularity on average? (2d analysis)
 
-ecgreene87@gmail.com
+
+## 🛍️ [Analyze A/B Test Results](https://github.com/ericagreene87/Udacity-Data-Analytics-Nanodegree/blob/main/analyze-a-b-test-results.ipynb)
+Understanding the results of an A/B test run by an e-commerce website utilizing descriptive statistics
+
+### 🧠 Skills/Libraries used
+- Python
+- Satsmodel
+- Pandas
+- Numpy
+
+
+# Part 2: Advanced Data Wrangling and Data Modeling
+##  [Does Prestige Pay?](https://github.com/ericagreene87/Udacity-Data-Analytics-Nanodegree/blob/main/analyze-tuition-and-school-rankings%20.ipynb)
+Analyzing a TMDB Dataset with over 10,000 movies with 1D and 2D analysis
+
+### 🧠 Skills/Libraries used
+- Python
+- Pandas
+- Numpy
+- Data Visualization
+- Data Wrangling
+
+### ❓Question explored
+- Is there a correlation between student tuition and school ranking?
+
+
+## 🎓 [Data Modeling with Postgres](https://github.com/ericagreene87/Udacity-Data-Analytics-Nanodegree/blob/main/investigate-movie-dataset.ipynb)
+Analyzing a TMDB Dataset with over 10,000 movies with 1D and 2D analysis
+
+### 🧠 Skills/Libraries used
+- Python
+- Pandas
+- Numpy
+- Data Visualization
+- Data Wrangling
+
+### ❓Questions explored
+- What is the distribution of movie budgets in this dataset?
+- Which genres have the best and worst popularity on average? (2d analysis)
