@@ -95,7 +95,17 @@ Employ several supervised algorithms to accurately model individuals' income
 Employ unsupervised algorithms to identify segments in the population
 
 #### 🧠 Skills/Libraries used
-- SKlearn
+- Sckit-learn
 - Data Visualization
 - Machine Learning Algorithms
 
+# Part 5: Machine Learning Devops
+### 🏠 [Build a Machine Learning Pipeline for Short-term Rental Prices in NYC](https://github.com/ecgreene87/Build-an-ML-Pipeline-For-NYC-rentals)
+#### 🧠 Skills/Libraries used
+- Python
+- MLflow
+- Weights and Biases
+- DVC (Data Version Control)
+- Sckit-learn
+- Pytest
+  
