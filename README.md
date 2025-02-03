@@ -109,3 +109,11 @@ Employ unsupervised algorithms to identify segments in the population
 - Sckit-learn
 - Pytest
   
+# Part 6: Data Visualization
+### 📝 [Build Data Visualization Dashboards](https://drive.google.com/file/d/1XJ-GHf-Agw9nsvyDLfw6CfyzDR1oPaEt/view?usp=drive_link)
+
+Build Data Visualization Dashboards based on 2015 US Census Demographic Data
+
+#### 🧠 Skills Used
+- Tableau
+- Data Visualization
